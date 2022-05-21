@@ -1,5 +1,5 @@
 {"zhuyejiekou": [
-{"name":"   ---<默认主页>---","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
+{"name":"---<默认主页521>---","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"name":"001-独-播------社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"002-宅-男----影院","url":"http://www.sexyy.top/api.php/v1.vod"},
 {"name":"003-琅-琊----影视","url":"http://fgyuu.top/lehailb_api.php/v1.vod"},
