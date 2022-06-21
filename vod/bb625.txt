@@ -22,7 +22,7 @@
 {"name":"暖光影视(高清M","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"HG影视(高清M)","url":"http://bbq.1006.tk/api.php/v1.vod"},
 {"name":"瑞丰资源(高清M)","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"}
+{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"},
 {"name":"001-独-播------社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"005-瑞-丰----影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"name":"007-爱-酷----影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
