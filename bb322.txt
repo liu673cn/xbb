@@ -1,5 +1,5 @@
 {"zhuyejiekou": [
-{"name":"默认主页-软件星球","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
+{"name":"默认主页","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"name":"极酷视频","url":"https://jiku.vip/mogai_api.php/v1.vod"},
 {"name":"淘剧社","url":"https://app.shuhai99.com/api.php/v1.vod"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
@@ -200,7 +200,7 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
-"zidingyi":[{"name": "LIBVIO-软件星球",
+"zidingyi":[{"name": "LIBVIO",
 "url": "https://www.libvio.com",
 "tihuan": "dd520.cc",
 "User": "空",
