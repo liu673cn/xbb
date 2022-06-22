@@ -1,5 +1,4 @@
-﻿{
-"zhuyejiekou":[
+{"zhuyejiekou":[
 {"name":"南府追剧(高清M)","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
 {"name":"默认库(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"极酷视频(高清M)","url":"https://jiku.vip/mogai_api.php/v1.vod"},
