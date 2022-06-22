@@ -10,7 +10,8 @@ BiuBiuTV999 https://pan.lanzoui.com/iuSfD04onn8d
 
 软件星球：https://pan.quark.cn/s/144643e63aa5  
 ### 22/6/20更新  
-- https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt  
+- https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt  biubiu1  
+- https://shuyuan.miaogongzi.net/shuyuan/1653121551.txt  biubiu2  
 - http://www.mikkk.xyz/bb.json  
 - http://laohu.cool/ddtv/dd.json  
 - http://gg.gg/biubiu0  
