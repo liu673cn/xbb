@@ -1,13 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub 
 
-You can use the [editor on GitHub](https://github.com/liu673cn/top/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+猫影视TV关停，目前无法使用，biubiu影视替代。  
+主接口，采集接口和自定义，  
+有七七源和众多XP源可以使用，可以说是最佳替代。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Biubiu影院999.apk 6.4 M  
 
-### Markdown
+BiuBiuTV999 https://tsq.lanzoui.com/b0c43qpkb  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BiuBiuTV999 https://pan.lanzoui.com/iuSfD04onn8d  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+软件星球：https://pan.quark.cn/s/144643e63aa5  
+### 22/6/20更新  
+- https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt  
+- http://www.mikkk.xyz/bb.json  
+- http://laohu.cool/ddtv/dd.json  
+- http://gg.gg/biubiu0  
