@@ -2,7 +2,7 @@
 
 biubiu影院999旧版 | 调试助手108版
 ---------|---------
-在biubiu播放器最新版基础上去掉后端强制关停的限制，纯空壳，堪称纯净永久。软件支持TV+手机两种模式。![box](https://liu673cn.github.io/box/sub/img/box01.jpg)| 新版体验地址：![box](https://liu673cn.github.io/box/sub/img/box01.jpg)
+![box](https://liu673cn.github.io/box/sub/img/box01.jpg)在biubiu播放器最新版基础上去掉后端强制关停的限制，纯空壳，堪称纯净永久。软件支持TV+手机两种模式。|![box](https://liu673cn.github.io/box/sub/img/box01.jpg) 新版体验地址：
 ![box](https://liu673cn.github.io/box/sub/img/box01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)
 
 ###biubiu影视旧版  
