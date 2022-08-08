@@ -1,6 +1,6 @@
 ## Welcome to GitHub 
 
-主接口app，采集接口xml，自定义接口web，和直播，接口有三种类型源可以使用，
+播放器都是空壳，需要手动 全局接口设置，主接口app，采集接口xml，自定义接口web，和直播，接口有三种类型源可以使用，
 
 ### Biubiu影院999.apk
  - 下载地址1：[https://liucn.lanzouv.com/i1aak097ruuj](https://liucn.lanzouv.com/i1aak097ruuj)　　下载地址2：[https://tsq.lanzoui.com/iru2504p342j](https://tsq.lanzoui.com/iru2504p342j)  
@@ -11,7 +11,7 @@
 biubiu影院999旧版 | 调试助手108版
 ---------|---------
 ![box](https://liu673cn.github.io/xbb/zy/img/bb01.jpg)![box](https://liu673cn.github.io/xbb/zy/img/bb02.jpg)![box](https://liu673cn.github.io/xbb/zy/img/bb03.jpg)|![box](https://liu673cn.github.io/xbb/zy/img/xb01.jpg)![box](https://liu673cn.github.io/xbb/zy/img/xb02.jpg)![box](https://liu673cn.github.io/xbb/zy/img/xb03.jpg)
-旧版“biubiu播放器”基础上去掉后端强制关停的限制，纯空壳，堪称纯净永久。软件支持TV+手机两种模式。http://gg.gg/biubiu1  | 原作者新开发的“调试助手”纯空壳，需要设置全局接口，使用的是新接口规则。软件自适应界面TV和手机通用。http://gg.gg/biubiu2 
+旧版“biubiu播放器”基础上去掉后端强制关停的限制，纯空壳，堪称纯净永久。软件支持TV+手机两种模式。http://gg.gg/biubiu1  | 原作者新开发的“调试助手”纯空壳，全局接口，使用的是新接口规则。软件自适应界面TV和手机通用。http://gg.gg/biubiu2 
   
 
 ### 22/6/20更新  
