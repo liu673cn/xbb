@@ -12,11 +12,11 @@
 
 biubiu影院999旧版 | 调试助手108版
 ---------|---------
-![box](https://liu673cn.github.io/xbb/zy/img/bb01.jpg)![box](https://liu673cn.github.io/xbb/zy/img/bb02.jpg)![box](https://liu673cn.github.io/xbb/zy/img/bb03.jpg)|![box](https://liu673cn.github.io/xbb/zy/img/xb01.jpg)![box](https://liu673cn.github.io/xbb/zy/img/xb02.jpg)![box](https://liu673cn.github.io/xbb/zy/img/xb03.jpg)
+![box](https://raw.iqiq.io/liu673cn/xbb/main/zy/img/bb01.jpg)![box](https://raw.iqiq.io/liu673cn/xbb/main/zy/img/bb02.jpg)![box](https://raw.iqiq.io/liu673cn/xbb/main/zy/img/bb03.jpg)|![box](https://raw.iqiq.io/liu673cn/xbb/main/zy/img/xb01.jpg)![box](https://raw.iqiq.io/liu673cn/xbb/main/zy/img/xb02.jpg)![box](https://raw.iqiq.io/liu673cn/xbb/main/zy/img/xb03.jpg)
 旧版“biubiu播放器”基础上去掉后端强制关停的限制，纯空壳，堪称纯净永久。软件支持TV+手机两种模式。  | 原作者新开发的“调试助手”纯空壳，全局接口，使用的是新接口规则。软件自适应界面TV和手机通用。 
   
-`https://raw.iqiq.io/liu673cn/xbb/main/xb.json`  
-`https://raw.iqiq.io/liu673cn/xbb/main/xxb.json`  
+`https://raw.iqiq.io/liu673cn/xbb/main/xb.txt`  
+`https://raw.iqiq.io/liu673cn/xbb/main/xxb.txt`  
 ### 22/6/20更新  
 - https://shuyuan.miaogongzi.net/shuyuan/1655865516.txt  
 - https://shuyuan.miaogongzi.net/shuyuan/1653121551.txt  
